@@ -11,3 +11,5 @@ print(array2d.size) #number of nested elements
 
 print(type(array2d))
 print(array2d.dtype) #internal data type
+
+#in case of jagged arrrays 1D array of list is generated
